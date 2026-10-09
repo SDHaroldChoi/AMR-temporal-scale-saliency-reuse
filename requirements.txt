@@ -1,0 +1,17 @@
+# Tested with Python 3.9 and CUDA 11.8. Install PyTorch first:
+#   pip install torch==2.1.0 torchvision==0.16.0 torchaudio==2.1.0 --index-url https://download.pytorch.org/whl/cu118
+torch==2.1.0
+easydict>=1.13
+numpy<2.0
+pyyaml>=6.0
+scipy>=1.13
+scikit-learn>=1.6
+tqdm>=4.67
+
+# Bi-Mamba encoder CUDA kernels (built against the installed torch / CUDA toolkit):
+#   pip install --no-build-isolation causal-conv1d==1.2.2.post1 mamba-ssm==2.2.2
+# Without them, src/mamba_encoder.py falls back to a pure-PyTorch selective scan
+# (same weights and outputs, but much slower).
+
+# Feature extraction only (tools/extract_m2d_features.py, M2D portable runtime):
+#   pip install librosa timm einops nnAudio transformers

@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+results/
+features/
+m2d/
+m2d_clap_vit_base-*/
+*.npz

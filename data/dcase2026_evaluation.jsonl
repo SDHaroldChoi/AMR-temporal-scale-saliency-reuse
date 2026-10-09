@@ -1,0 +1,177 @@
+{"qid": "dcase2026_evaluation_q001", "query": "A door slamming shut with a bang", "duration":66,"vid": "dcase2026_evaluation_audio_001"}
+{"qid": "dcase2026_evaluation_q002", "query": "While music plays, a man speaks", "duration":84,"vid": "dcase2026_evaluation_audio_002"}
+{"qid": "dcase2026_evaluation_q003", "query": "Guitar strings ring out", "duration":299,"vid": "dcase2026_evaluation_audio_003"}
+{"qid": "dcase2026_evaluation_q004", "query": "A saw bites into wood", "duration":299,"vid": "dcase2026_evaluation_audio_003"}
+{"qid": "dcase2026_evaluation_q005", "query": "A low whistle blaring", "duration":299,"vid": "dcase2026_evaluation_audio_004"}
+{"qid": "dcase2026_evaluation_q006", "query": "A siren wailing", "duration":299,"vid": "dcase2026_evaluation_audio_004"}
+{"qid": "dcase2026_evaluation_q007", "query": "A man belting along with the music", "duration":299,"vid": "dcase2026_evaluation_audio_004"}
+{"qid": "dcase2026_evaluation_q008", "query": "A cat yowls and mews", "duration":60,"vid": "dcase2026_evaluation_audio_005"}
+{"qid": "dcase2026_evaluation_q009", "query": "A woman shrieks", "duration":126,"vid": "dcase2026_evaluation_audio_006"}
+{"qid": "dcase2026_evaluation_q010", "query": "A woman's voice weaves through electronic beats", "duration":252,"vid": "dcase2026_evaluation_audio_007"}
+{"qid": "dcase2026_evaluation_q011", "query": "A file rasps against something", "duration":299,"vid": "dcase2026_evaluation_audio_008"}
+{"qid": "dcase2026_evaluation_q012", "query": "Music plays", "duration":299,"vid": "dcase2026_evaluation_audio_009"}
+{"qid": "dcase2026_evaluation_q013", "query": "Something slices through something", "duration":299,"vid": "dcase2026_evaluation_audio_009"}
+{"qid": "dcase2026_evaluation_q014", "query": "While ran patters, men's voices ring out and hooves pound", "duration":299,"vid": "dcase2026_evaluation_audio_009"}
+{"qid": "dcase2026_evaluation_q015", "query": "A bell peals", "duration":299,"vid": "dcase2026_evaluation_audio_009"}
+{"qid": "dcase2026_evaluation_q016", "query": "A man's voice shouting out", "duration":299,"vid": "dcase2026_evaluation_audio_009"}
+{"qid": "dcase2026_evaluation_q017", "query": "A rooster crows", "duration":68,"vid": "dcase2026_evaluation_audio_010"}
+{"qid": "dcase2026_evaluation_q018", "query": "A duck quacks", "duration":68,"vid": "dcase2026_evaluation_audio_010"}
+{"qid": "dcase2026_evaluation_q019", "query": "A man talking", "duration":68,"vid": "dcase2026_evaluation_audio_010"}
+{"qid": "dcase2026_evaluation_q020", "query": "A lid snapping shut", "duration":146,"vid": "dcase2026_evaluation_audio_011"}
+{"qid": "dcase2026_evaluation_q021", "query": "Someone whistling", "duration":92,"vid": "dcase2026_evaluation_audio_012"}
+{"qid": "dcase2026_evaluation_q022", "query": "Drums play", "duration":299,"vid": "dcase2026_evaluation_audio_013"}
+{"qid": "dcase2026_evaluation_q023", "query": "A man sneezing", "duration":99,"vid": "dcase2026_evaluation_audio_014"}
+{"qid": "dcase2026_evaluation_q024", "query": "While music plays, a drill bores into something", "duration":300,"vid": "dcase2026_evaluation_audio_015"}
+{"qid": "dcase2026_evaluation_q025", "query": "While music plays, a hammer pounds away at something", "duration":300,"vid": "dcase2026_evaluation_audio_015"}
+{"qid": "dcase2026_evaluation_q026", "query": "Electronic music plays", "duration":107,"vid": "dcase2026_evaluation_audio_016"}
+{"qid": "dcase2026_evaluation_q027", "query": "While background music plays, wood scrapes on wood", "duration":299,"vid": "dcase2026_evaluation_audio_017"}
+{"qid": "dcase2026_evaluation_q028", "query": "Machines whirring", "duration":64,"vid": "dcase2026_evaluation_audio_018"}
+{"qid": "dcase2026_evaluation_q029", "query": "A man howls", "duration":299,"vid": "dcase2026_evaluation_audio_019"}
+{"qid": "dcase2026_evaluation_q030", "query": "A motorbike engine growling", "duration":164,"vid": "dcase2026_evaluation_audio_020"}
+{"qid": "dcase2026_evaluation_q031", "query": "While a motorbike engine rumbles, a man speaking", "duration":164,"vid": "dcase2026_evaluation_audio_020"}
+{"qid": "dcase2026_evaluation_q032", "query": "As a man speaks, water pouring", "duration":276,"vid": "dcase2026_evaluation_audio_021"}
+{"qid": "dcase2026_evaluation_q033", "query": "A motor roaring fiercely", "duration":276,"vid": "dcase2026_evaluation_audio_021"}
+{"qid": "dcase2026_evaluation_q034", "query": "While engines rumble, a horn honking", "duration":218,"vid": "dcase2026_evaluation_audio_022"}
+{"qid": "dcase2026_evaluation_q035", "query": "A door thudding shut", "duration":218,"vid": "dcase2026_evaluation_audio_022"}
+{"qid": "dcase2026_evaluation_q036", "query": "A man talking", "duration":218,"vid": "dcase2026_evaluation_audio_022"}
+{"qid": "dcase2026_evaluation_q037", "query": "A shovel scrapes and scoops something up", "duration":299,"vid": "dcase2026_evaluation_audio_023"}
+{"qid": "dcase2026_evaluation_q038", "query": "A train whistles", "duration":299,"vid": "dcase2026_evaluation_audio_023"}
+{"qid": "dcase2026_evaluation_q039", "query": "A train bell clangs", "duration":299,"vid": "dcase2026_evaluation_audio_023"}
+{"qid": "dcase2026_evaluation_q040", "query": "A motorbike engine revving", "duration":299,"vid": "dcase2026_evaluation_audio_024"}
+{"qid": "dcase2026_evaluation_q041", "query": "A boy cries", "duration":299,"vid": "dcase2026_evaluation_audio_024"}
+{"qid": "dcase2026_evaluation_q042", "query": "A hard object clatters on something", "duration":299,"vid": "dcase2026_evaluation_audio_025"}
+{"qid": "dcase2026_evaluation_q043", "query": "A train alarm blaring", "duration":299,"vid": "dcase2026_evaluation_audio_026"}
+{"qid": "dcase2026_evaluation_q044", "query": "A clock's second hand ticking", "duration":295,"vid": "dcase2026_evaluation_audio_027"}
+{"qid": "dcase2026_evaluation_q045", "query": "A drill bites and whirs into material", "duration":131,"vid": "dcase2026_evaluation_audio_028"}
+{"qid": "dcase2026_evaluation_q046", "query": "Laughter ringing out", "duration":131,"vid": "dcase2026_evaluation_audio_028"}
+{"qid": "dcase2026_evaluation_q047", "query": "A cannonball bursting", "duration":131,"vid": "dcase2026_evaluation_audio_028"}
+{"qid": "dcase2026_evaluation_q048", "query": "Paper rustling", "duration":99,"vid": "dcase2026_evaluation_audio_029"}
+{"qid": "dcase2026_evaluation_q049", "query": "Winding up a spring", "duration":99,"vid": "dcase2026_evaluation_audio_029"}
+{"qid": "dcase2026_evaluation_q050", "query": "Something bursting", "duration":99,"vid": "dcase2026_evaluation_audio_029"}
+{"qid": "dcase2026_evaluation_q051", "query": "Glass shattering in the blast", "duration":99,"vid": "dcase2026_evaluation_audio_029"}
+{"qid": "dcase2026_evaluation_q052", "query": "Something getting hit", "duration":114,"vid": "dcase2026_evaluation_audio_030"}
+{"qid": "dcase2026_evaluation_q053", "query": "A man talking", "duration":201,"vid": "dcase2026_evaluation_audio_031"}
+{"qid": "dcase2026_evaluation_q054", "query": "Something thudding down", "duration":201,"vid": "dcase2026_evaluation_audio_031"}
+{"qid": "dcase2026_evaluation_q055", "query": "A woman talking", "duration":201,"vid": "dcase2026_evaluation_audio_031"}
+{"qid": "dcase2026_evaluation_q056", "query": "Gentle guitar strumming in the background", "duration":201,"vid": "dcase2026_evaluation_audio_031"}
+{"qid": "dcase2026_evaluation_q057", "query": "A child's voice shrieking", "duration":201,"vid": "dcase2026_evaluation_audio_031"}
+{"qid": "dcase2026_evaluation_q058", "query": "While a clock hand ticks, a bell tolls", "duration":299,"vid": "dcase2026_evaluation_audio_032"}
+{"qid": "dcase2026_evaluation_q059", "query": "A woman coughs", "duration":227,"vid": "dcase2026_evaluation_audio_033"}
+{"qid": "dcase2026_evaluation_q060", "query": "While engines rumble, an alarm blares", "duration":299,"vid": "dcase2026_evaluation_audio_034"}
+{"qid": "dcase2026_evaluation_q061", "query": "Electronic beeps flickering as something is handled", "duration":299,"vid": "dcase2026_evaluation_audio_034"}
+{"qid": "dcase2026_evaluation_q062", "query": "A woman speaking over the radio", "duration":299,"vid": "dcase2026_evaluation_audio_034"}
+{"qid": "dcase2026_evaluation_q063", "query": "A car speeding past, siren wailing", "duration":299,"vid": "dcase2026_evaluation_audio_034"}
+{"qid": "dcase2026_evaluation_q064", "query": "Music plays", "duration":299,"vid": "dcase2026_evaluation_audio_035"}
+{"qid": "dcase2026_evaluation_q065", "query": "A man and a woman sing together", "duration":299,"vid": "dcase2026_evaluation_audio_035"}
+{"qid": "dcase2026_evaluation_q066", "query": "Cheers erupt from the crowd", "duration":299,"vid": "dcase2026_evaluation_audio_035"}
+{"qid": "dcase2026_evaluation_q067", "query": "A shutter clicks", "duration":299,"vid": "dcase2026_evaluation_audio_035"}
+{"qid": "dcase2026_evaluation_q068", "query": "Stone grinds and scrapes fiercely", "duration":299,"vid": "dcase2026_evaluation_audio_036"}
+{"qid": "dcase2026_evaluation_q069", "query": "While musics plays, something slams into something", "duration":299,"vid": "dcase2026_evaluation_audio_036"}
+{"qid": "dcase2026_evaluation_q070", "query": "A fanfare blaring", "duration":299,"vid": "dcase2026_evaluation_audio_036"}
+{"qid": "dcase2026_evaluation_q071", "query": "Electronic motors whir and buzz", "duration":299,"vid": "dcase2026_evaluation_audio_036"}
+{"qid": "dcase2026_evaluation_q072", "query": "A man speaking", "duration":299,"vid": "dcase2026_evaluation_audio_037"}
+{"qid": "dcase2026_evaluation_q073", "query": "Applause swelling from the crowd", "duration":299,"vid": "dcase2026_evaluation_audio_037"}
+{"qid": "dcase2026_evaluation_q074", "query": "Applause and cheers bursting from the crowd", "duration":299,"vid": "dcase2026_evaluation_audio_037"}
+{"qid": "dcase2026_evaluation_q075", "query": "Footsteps echoing", "duration":299,"vid": "dcase2026_evaluation_audio_037"}
+{"qid": "dcase2026_evaluation_q076", "query": "The crowd is laughing", "duration":199,"vid": "dcase2026_evaluation_audio_038"}
+{"qid": "dcase2026_evaluation_q077", "query": "A man makes a low voice", "duration":199,"vid": "dcase2026_evaluation_audio_038"}
+{"qid": "dcase2026_evaluation_q078", "query": "People applaud", "duration":199,"vid": "dcase2026_evaluation_audio_038"}
+{"qid": "dcase2026_evaluation_q079", "query": "An electronic beep blares in warning", "duration":70,"vid": "dcase2026_evaluation_audio_039"}
+{"qid": "dcase2026_evaluation_q080", "query": "Glass shatters", "duration":70,"vid": "dcase2026_evaluation_audio_039"}
+{"qid": "dcase2026_evaluation_q081", "query": "Brass blares", "duration":70,"vid": "dcase2026_evaluation_audio_039"}
+{"qid": "dcase2026_evaluation_q082", "query": "A drill bites into something", "duration":300,"vid": "dcase2026_evaluation_audio_040"}
+{"qid": "dcase2026_evaluation_q083", "query": "Metal squeaks on metal", "duration":300,"vid": "dcase2026_evaluation_audio_040"}
+{"qid": "dcase2026_evaluation_q084", "query": "Background music plays", "duration":299,"vid": "dcase2026_evaluation_audio_041"}
+{"qid": "dcase2026_evaluation_q085", "query": "A man talks while the wind blows", "duration":62,"vid": "dcase2026_evaluation_audio_042"}
+{"qid": "dcase2026_evaluation_q086", "query": "Something enters the water", "duration":59,"vid": "dcase2026_evaluation_audio_043"}
+{"qid": "dcase2026_evaluation_q087", "query": "Heavy breathing", "duration":59,"vid": "dcase2026_evaluation_audio_043"}
+{"qid": "dcase2026_evaluation_q088", "query": "A man's voice singing along to music", "duration":299,"vid": "dcase2026_evaluation_audio_044"}
+{"qid": "dcase2026_evaluation_q089", "query": "Cymbals crashing, bass thumping, flute piping", "duration":299,"vid": "dcase2026_evaluation_audio_045"}
+{"qid": "dcase2026_evaluation_q090", "query": "A man speaking", "duration":299,"vid": "dcase2026_evaluation_audio_045"}
+{"qid": "dcase2026_evaluation_q091", "query": "Something rings out", "duration":168,"vid": "dcase2026_evaluation_audio_046"}
+{"qid": "dcase2026_evaluation_q092", "query": "Electronic beeping", "duration":168,"vid": "dcase2026_evaluation_audio_046"}
+{"qid": "dcase2026_evaluation_q093", "query": "A man howls", "duration":299,"vid": "dcase2026_evaluation_audio_047"}
+{"qid": "dcase2026_evaluation_q094", "query": "Water gushing out", "duration":299,"vid": "dcase2026_evaluation_audio_048"}
+{"qid": "dcase2026_evaluation_q095", "query": "A motor whirring at full speed", "duration":299,"vid": "dcase2026_evaluation_audio_048"}
+{"qid": "dcase2026_evaluation_q096", "query": "Metal tools scraping together", "duration":179,"vid": "dcase2026_evaluation_audio_049"}
+{"qid": "dcase2026_evaluation_q097", "query": "A horn blaring", "duration":179,"vid": "dcase2026_evaluation_audio_049"}
+{"qid": "dcase2026_evaluation_q098", "query": "A woman speaking", "duration":234,"vid": "dcase2026_evaluation_audio_050"}
+{"qid": "dcase2026_evaluation_q099", "query": "While music plays, something sizzles in the pan", "duration":234,"vid": "dcase2026_evaluation_audio_050"}
+{"qid": "dcase2026_evaluation_q100", "query": "A metal bell rings", "duration":82,"vid": "dcase2026_evaluation_audio_051"}
+{"qid": "dcase2026_evaluation_q101", "query": "While rain patters, a fire truck's siren wails", "duration":299,"vid": "dcase2026_evaluation_audio_052"}
+{"qid": "dcase2026_evaluation_q102", "query": "A drill boring through something", "duration":299,"vid": "dcase2026_evaluation_audio_053"}
+{"qid": "dcase2026_evaluation_q103", "query": "An engine humming steadily", "duration":262,"vid": "dcase2026_evaluation_audio_054"}
+{"qid": "dcase2026_evaluation_q104", "query": "A basketball bouncing", "duration":83,"vid": "dcase2026_evaluation_audio_055"}
+{"qid": "dcase2026_evaluation_q105", "query": "Someone clapping", "duration":149,"vid": "dcase2026_evaluation_audio_056"}
+{"qid": "dcase2026_evaluation_q106", "query": "A man coughs", "duration":149,"vid": "dcase2026_evaluation_audio_056"}
+{"qid": "dcase2026_evaluation_q107", "query": "Someone makes a low voice", "duration":149,"vid": "dcase2026_evaluation_audio_056"}
+{"qid": "dcase2026_evaluation_q108", "query": "While background static hums, a printer whirring", "duration":152,"vid": "dcase2026_evaluation_audio_057"}
+{"qid": "dcase2026_evaluation_q109", "query": "Machinery grinding loudly", "duration":152,"vid": "dcase2026_evaluation_audio_057"}
+{"qid": "dcase2026_evaluation_q110", "query": "Metal scraping and grating", "duration":299,"vid": "dcase2026_evaluation_audio_058"}
+{"qid": "dcase2026_evaluation_q111", "query": "While heartbeats thump, a woman speaking", "duration":299,"vid": "dcase2026_evaluation_audio_058"}
+{"qid": "dcase2026_evaluation_q112", "query": "An electronic bell chimes", "duration":299,"vid": "dcase2026_evaluation_audio_059"}
+{"qid": "dcase2026_evaluation_q113", "query": "A gunshot cracking", "duration":300,"vid": "dcase2026_evaluation_audio_060"}
+{"qid": "dcase2026_evaluation_q114", "query": "Hands clap in unison", "duration":299,"vid": "dcase2026_evaluation_audio_061"}
+{"qid": "dcase2026_evaluation_q115", "query": "A woman's voice rises with the music", "duration":299,"vid": "dcase2026_evaluation_audio_061"}
+{"qid": "dcase2026_evaluation_q116", "query": "Crows caws", "duration":299,"vid": "dcase2026_evaluation_audio_062"}
+{"qid": "dcase2026_evaluation_q117", "query": "A dog barks", "duration":94,"vid": "dcase2026_evaluation_audio_063"}
+{"qid": "dcase2026_evaluation_q118", "query": "Steam hissing out", "duration":299,"vid": "dcase2026_evaluation_audio_064"}
+{"qid": "dcase2026_evaluation_q119", "query": "A train whistle wailing", "duration":299,"vid": "dcase2026_evaluation_audio_064"}
+{"qid": "dcase2026_evaluation_q120", "query": "Wood scraping together", "duration":299,"vid": "dcase2026_evaluation_audio_065"}
+{"qid": "dcase2026_evaluation_q121", "query": "Someone blows an airhorn", "duration":68,"vid": "dcase2026_evaluation_audio_066"}
+{"qid": "dcase2026_evaluation_q122", "query": "A woman laughs", "duration":68,"vid": "dcase2026_evaluation_audio_066"}
+{"qid": "dcase2026_evaluation_q123", "query": "Vinyl rustles against itself", "duration":299,"vid": "dcase2026_evaluation_audio_067"}
+{"qid": "dcase2026_evaluation_q124", "query": "Metal clangs", "duration":299,"vid": "dcase2026_evaluation_audio_067"}
+{"qid": "dcase2026_evaluation_q125", "query": "While static crackles, a man laughs", "duration":90,"vid": "dcase2026_evaluation_audio_068"}
+{"qid": "dcase2026_evaluation_q126", "query": "A propellor spins", "duration":121,"vid": "dcase2026_evaluation_audio_069"}
+{"qid": "dcase2026_evaluation_q127", "query": "A gunshot ringing out", "duration":77,"vid": "dcase2026_evaluation_audio_070"}
+{"qid": "dcase2026_evaluation_q128", "query": "A reverse alarm plays", "duration":92,"vid": "dcase2026_evaluation_audio_071"}
+{"qid": "dcase2026_evaluation_q129", "query": "Several objects clattering down", "duration":92,"vid": "dcase2026_evaluation_audio_071"}
+{"qid": "dcase2026_evaluation_q130", "query": "A screw squeaking as it turns", "duration":181,"vid": "dcase2026_evaluation_audio_072"}
+{"qid": "dcase2026_evaluation_q131", "query": "Water trickling and gurgling", "duration":181,"vid": "dcase2026_evaluation_audio_072"}
+{"qid": "dcase2026_evaluation_q132", "query": "Something heavy scraping across the floor", "duration":181,"vid": "dcase2026_evaluation_audio_072"}
+{"qid": "dcase2026_evaluation_q133", "query": "Cheers and applause ringing out", "duration":161,"vid": "dcase2026_evaluation_audio_073"}
+{"qid": "dcase2026_evaluation_q134", "query": "While harsh static crackles, a man speaking over the radio", "duration":147,"vid": "dcase2026_evaluation_audio_074"}
+{"qid": "dcase2026_evaluation_q135", "query": "As a woman speaks, blinds clatter upward", "duration":299,"vid": "dcase2026_evaluation_audio_075"}
+{"qid": "dcase2026_evaluation_q136", "query": "Male and female voices blending in chorus", "duration":299,"vid": "dcase2026_evaluation_audio_075"}
+{"qid": "dcase2026_evaluation_q137", "query": "A woman cackling", "duration":253,"vid": "dcase2026_evaluation_audio_076"}
+{"qid": "dcase2026_evaluation_q138", "query": "Something is placed down", "duration":193,"vid": "dcase2026_evaluation_audio_077"}
+{"qid": "dcase2026_evaluation_q139", "query": "Two people gargling", "duration":68,"vid": "dcase2026_evaluation_audio_078"}
+{"qid": "dcase2026_evaluation_q140", "query": "Gunshots ring out", "duration":141,"vid": "dcase2026_evaluation_audio_079"}
+{"qid": "dcase2026_evaluation_q141", "query": "Birdsong trilling", "duration":141,"vid": "dcase2026_evaluation_audio_079"}
+{"qid": "dcase2026_evaluation_q142", "query": "A mixer motor whirring", "duration":299,"vid": "dcase2026_evaluation_audio_080"}
+{"qid": "dcase2026_evaluation_q143", "query": "While deep bass rumbles, a man speaking", "duration":230,"vid": "dcase2026_evaluation_audio_081"}
+{"qid": "dcase2026_evaluation_q144", "query": "While deep bass rumbles, electronic tones pulsing", "duration":230,"vid": "dcase2026_evaluation_audio_081"}
+{"qid": "dcase2026_evaluation_q145", "query": "A blender blends something", "duration":299,"vid": "dcase2026_evaluation_audio_082"}
+{"qid": "dcase2026_evaluation_q146", "query": "Glass bottles clinking together", "duration":299,"vid": "dcase2026_evaluation_audio_082"}
+{"qid": "dcase2026_evaluation_q147", "query": "Metal clanging and ringing as pieces ricochet off one another", "duration":105,"vid": "dcase2026_evaluation_audio_083"}
+{"qid": "dcase2026_evaluation_q148", "query": "Something scorching", "duration":294,"vid": "dcase2026_evaluation_audio_084"}
+{"qid": "dcase2026_evaluation_q149", "query": "Something sparking", "duration":294,"vid": "dcase2026_evaluation_audio_084"}
+{"qid": "dcase2026_evaluation_q150", "query": "While noise crackles, a man speaks", "duration":300,"vid": "dcase2026_evaluation_audio_085"}
+{"qid": "dcase2026_evaluation_q151", "query": "A train whistle wailing", "duration":299,"vid": "dcase2026_evaluation_audio_086"}
+{"qid": "dcase2026_evaluation_q152", "query": "While wind gusts, two men talking", "duration":299,"vid": "dcase2026_evaluation_audio_087"}
+{"qid": "dcase2026_evaluation_q153", "query": "Applause ringing out", "duration":299,"vid": "dcase2026_evaluation_audio_088"}
+{"qid": "dcase2026_evaluation_q154", "query": "Cheers erupting", "duration":299,"vid": "dcase2026_evaluation_audio_088"}
+{"qid": "dcase2026_evaluation_q155", "query": "A heartbeat", "duration":185,"vid": "dcase2026_evaluation_audio_089"}
+{"qid": "dcase2026_evaluation_q156", "query": "The crowd laughs", "duration":299,"vid": "dcase2026_evaluation_audio_090"}
+{"qid": "dcase2026_evaluation_q157", "query": "While white noise hisses, a man speaking", "duration":132,"vid": "dcase2026_evaluation_audio_091"}
+{"qid": "dcase2026_evaluation_q158", "query": "Something tapping", "duration":67,"vid": "dcase2026_evaluation_audio_092"}
+{"qid": "dcase2026_evaluation_q159", "query": "A man's voice calling out", "duration":184,"vid": "dcase2026_evaluation_audio_093"}
+{"qid": "dcase2026_evaluation_q160", "query": "Electronic tones pulsing", "duration":184,"vid": "dcase2026_evaluation_audio_093"}
+{"qid": "dcase2026_evaluation_q161", "query": "A fierce blast thundering", "duration":184,"vid": "dcase2026_evaluation_audio_093"}
+{"qid": "dcase2026_evaluation_q162", "query": "A flute piping softly", "duration":299,"vid": "dcase2026_evaluation_audio_094"}
+{"qid": "dcase2026_evaluation_q163", "query": "Debris crashing down as water splashes up", "duration":299,"vid": "dcase2026_evaluation_audio_094"}
+{"qid": "dcase2026_evaluation_q164", "query": "A spring twanging and bouncing", "duration":299,"vid": "dcase2026_evaluation_audio_094"}
+{"qid": "dcase2026_evaluation_q165", "query": "An electronic music box chiming", "duration":299,"vid": "dcase2026_evaluation_audio_094"}
+{"qid": "dcase2026_evaluation_q166", "query": "A door swinging shut", "duration":299,"vid": "dcase2026_evaluation_audio_094"}
+{"qid": "dcase2026_evaluation_q167", "query": "While wind gusts, a woman speaks", "duration":299,"vid": "dcase2026_evaluation_audio_095"}
+{"qid": "dcase2026_evaluation_q168", "query": "A toilet flushing", "duration":299,"vid": "dcase2026_evaluation_audio_095"}
+{"qid": "dcase2026_evaluation_q169", "query": "A pipe organ resounding", "duration":299,"vid": "dcase2026_evaluation_audio_095"}
+{"qid": "dcase2026_evaluation_q170", "query": "While music plays, a woman speaks", "duration":299,"vid": "dcase2026_evaluation_audio_096"}
+{"qid": "dcase2026_evaluation_q171", "query": "While a motor hums, metal clanging", "duration":228,"vid": "dcase2026_evaluation_audio_097"}
+{"qid": "dcase2026_evaluation_q172", "query": "A man speaking", "duration":228,"vid": "dcase2026_evaluation_audio_097"}
+{"qid": "dcase2026_evaluation_q173", "query": "A horn blaring", "duration":299,"vid": "dcase2026_evaluation_audio_098"}
+{"qid": "dcase2026_evaluation_q174", "query": "An electronic alarm beeping", "duration":299,"vid": "dcase2026_evaluation_audio_098"}
+{"qid": "dcase2026_evaluation_q175", "query": "Wooden tools clacking together", "duration":299,"vid": "dcase2026_evaluation_audio_099"}
+{"qid": "dcase2026_evaluation_q176", "query": "Music plays", "duration":299,"vid": "dcase2026_evaluation_audio_099"}
+{"qid": "dcase2026_evaluation_q177", "query": "While water flows, a man speaks", "duration":299,"vid": "dcase2026_evaluation_audio_100"}

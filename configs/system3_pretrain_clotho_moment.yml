@@ -1,0 +1,96 @@
+# System 3, stage 1: pretraining on Clotho-Moment.
+#   python src/train.py -c configs/system3_pretrain_clotho_moment.yml
+
+seed: 2023
+device: 'cuda'
+num_workers: 4
+
+# ---- Optimization ----------------------------------------------------------
+lr: 0.0001
+lr_drop: 400               # > n_epoch, i.e. constant learning rate
+wd: 0.0001
+n_epoch: 200
+bsz: 32
+eval_bsz: 100
+grad_clip: 0.1
+eval_epoch_interval: 1
+
+# ---- Output ----------------------------------------------------------------
+results_dir: results/system3_pretrain_clotho_moment
+ckpt_filename: best_checkpoint.pth
+train_log_filename: train.log
+eval_log_filename: val.log
+
+# ---- Data: Clotho-Moment (M2D-CLAP features) -------------------------------
+dset_name: clotho_moment
+train_path: data/clotho_moment_train_release.jsonl
+val_path: data/clotho_moment_val_release.jsonl
+test_path: data/clotho_moment_test_release.jsonl
+a_feat_dir: features/clotho-moment/m2d_clap
+t_feat_dir: features/clotho-moment/m2d_clap_text
+a_feat_dim: 768
+t_feat_dim: 768
+ctx_mode: audio_tef        # append temporal endpoint features to the audio tokens
+clip_length: 1             # seconds per audio token
+max_q_l: 32
+max_a_l: 300
+max_windows: 5
+
+# ---- Detector -------------------------------------------------------------
+position_embedding: "sine"
+enc_layers: 2              # T2A cross-attention encoder layers
+dec_layers: 2
+dim_feedforward: 1024
+hidden_dim: 256
+input_dropout: 0.5
+dropout: 0.1
+nheads: 8
+num_queries: 10            # N_q decoder queries
+n_input_proj: 2
+
+# ---- Base detection loss (Eq. 2) and saliency ------------------------------
+span_loss_type: "l1"
+set_cost_span: 10
+set_cost_giou: 1
+set_cost_class: 4
+span_loss_coef: 10         # lambda_l1
+giou_loss_coef: 1          # lambda_gIoU
+label_loss_coef: 4         # lambda_cls
+eos_coef: 0.1              # background class weight
+lw_saliency: 1             # frame-level alignment (saliency) loss weight
+saliency_margin: 0.2
+aux_loss: True             # supervise every decoder layer
+
+# ---- Temporal-scale and context-aware localization (Sec. 3.2) --------------
+use_coarse_aux: True       # coarse auxiliary supervision (training only)
+coarse_aux_pool_kernel: 2
+coarse_aux_pool_stride: 2
+coarse_aux_loss_coef: 0.25
+
+use_dn: True               # denoising query training (training only)
+dn_num_groups: 5           # noisy copies per GT span
+dn_noise_scale_cx: 0.05    # sigma
+dn_noise_scale_w: 0.05
+lw_dn: 1.0
+
+use_mamba_backbone: True   # single-layer bidirectional Mamba audio-memory encoder
+num_mamba_layers: 1
+mamba_d_state: 16
+mamba_d_conv: 4
+mamba_expand: 2
+
+use_cascade_refine: True   # bounded localized cascade (Eq. 3)
+cascade_crop_margin: 10    # frames added on both sides of each span
+cascade_delta_scale: 0.05  # kappa
+cascade_n_heads: 4
+lw_cascade: 1.0
+
+# ---- Multi-granularity audio-text alignment (Sec. 3.3) ---------------------
+use_span_rerank: True      # span-level alignment (BCE)
+lw_span_rerank: 0.5
+span_rerank_alpha: 0.5        # only affects the Clotho-Moment validation used for checkpoint selection
+
+use_boundary_contrast: True  # boundary-level alignment (Eq. 4, training only)
+boundary_margin: 3         # K frames inside / outside each boundary
+boundary_contrast_temperature: 0.1
+lw_boundary_contrast: 0.2
